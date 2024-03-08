@@ -1,0 +1,8 @@
+.logo{
+    border-radius: 50%;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-color: black;
+}
